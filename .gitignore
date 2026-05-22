@@ -9,5 +9,4 @@ ENV/
 build/
 dist/
 *.egg-info/
-models/
 streamlitml.zip
